@@ -1,0 +1,8 @@
+ashutosh@mccheetah:~/projects/Diviti-ai/nd1309/nd1309_hashing$ vi app.js 
+ashutosh@mccheetah:~/projects/Diviti-ai/nd1309/nd1309_hashing$ 
+ashutosh@mccheetah:~/projects/Diviti-ai/nd1309/nd1309_hashing$ 
+ashutosh@mccheetah:~/projects/Diviti-ai/nd1309/nd1309_hashing$ node app.js
+SHA256 Hash: f9a8aa13efcf511cb7ac496943a3dd5c14de3a8188c36719aa4350f662957329
+************************************
+SHA256 Hash: e6bc74209698759e0be4a3b58b999cdb502921ef9cac37fdb19f9b7064edddf4
+ashutosh@mccheetah:~/projects/Diviti-ai/nd1309/nd1309_hashing$ 
